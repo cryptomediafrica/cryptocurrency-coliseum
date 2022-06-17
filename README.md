@@ -1,2 +1,2 @@
 # cryptocurrency-coliseum
-Cryptocurrency transactions, News  updates
+Cryptocurrency transactions,News  updates
